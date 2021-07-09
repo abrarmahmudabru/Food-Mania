@@ -1,0 +1,35 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin:0%;
+}
+h1{
+    font-family: 'Otomanopee One', sans-serif;
+}
+.mania{ color:darksalmon;}
+.half-width{ 
+    width: 50%;
+    padding-left: 1cm;
+}
+.half-width img{
+    width: 100%;
+}
+.flexible{
+    display: flex;
+    margin-left: 5%;
+}
+#nama{
+    margin-top: 25%;
+    font-size: 40px;
+}
+#button1{
+    border-radius: 6px;
+    background-image: linear-gradient(skyblue,cyan);
+    padding: 1% 2%;
+    width: 20%; 
+    font-size: 30px;
+    color:indianred;
+    text-decoration: none;
+}
+a{
+    margin-top: 5%;
+}
